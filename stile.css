@@ -2,7 +2,9 @@ body {
   font-family: sans-serif;
     color: white;
     background-color: black;
-}
+    }
+    h1 { font-size: 40px;}
+    p {font-size: 20px;}
 section {
   background: pink;
   padding-bottom: 80px;
